@@ -14,4 +14,4 @@ kramdown:
 # baseurl: "https://indeedeng.github.io/k8dash"
 
 
-theme: jekyll-theme-tactile
+theme: minimal-mistakes-jekyll
